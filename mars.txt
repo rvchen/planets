@@ -1,2 +1,3 @@
-Cold and dry, but everything is my faorite color.
+Cold and dry, but everything is my favorite color.
+Change after git add.
 
